@@ -1,0 +1,17 @@
+git init
+git commit -m <message>
+git branch
+git branch <branch name>
+git switch <branch name>
+git checkout <branch name>
+git branch -d <branch name>
+git push -all <origin name>
+git push <origin name> <branch name>
+git config list
+git config --global alias.pushall '!<git cmd>'
+git remote -v
+git remote remove <origin name>
+git merge <branch name>
+git reabse <branch name>
+git config --global user.name <user.name>
+git config --global user.email <email>
