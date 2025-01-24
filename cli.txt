@@ -1,0 +1,9 @@
+ls
+wc
+gref
+pwd
+rm
+ps
+tree
+touch
+echo
